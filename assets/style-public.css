@@ -1,0 +1,17 @@
+.description-shortcode_details{
+    color: #1a1a1a;
+    font-weight: bold;
+    background-color: aqua;
+    padding: 5px 10px;
+}
+#hl_update_progress{
+    color: darkgrey;
+    padding: 10px;
+}
+#hl_required_field{
+    color: red;
+}
+#hl_iframe_details_style {
+    width: 100% ;
+    border: 0px ;
+}
